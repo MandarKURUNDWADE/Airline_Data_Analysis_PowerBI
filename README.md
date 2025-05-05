@@ -93,22 +93,3 @@ This project leverages **Power BI** to analyze airline operations data, providin
 
 ## 📜 License
 This project is licensed under the MIT License.  
-
----
-
-## ✉️ Contact
-For questions or feedback, please reach out to:  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-
----
-
-## 🔗 Links
-- [Project Report (PDF)](#)
-- [Video Demonstration](#)  
-
-
-
---- 
-
-🚀 **Happy Analyzing!** 🚀
