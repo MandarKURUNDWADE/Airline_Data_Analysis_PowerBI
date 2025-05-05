@@ -78,7 +78,6 @@ This project leverages **Power BI** to analyze airline operations data, providin
 ```
 ├── Data/                    # Raw datasets (CSV/Excel)
 ├── PowerBI/                 # Power BI files (.pbix)
-├── Screenshots/             # Visuals and dashboard snapshots
 ├── Documentation/           # Final report (PDF)
 └── README.md                # Project overview
 ```
