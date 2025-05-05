@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project leverages **Power BI** to analyze airline operations data, providing actionable insights for improving efficiency and customer satisfaction. The analysis covers flight schedules, passenger details, and ticket booking trends.
 
----
+
 
 ## 🎯 Objectives
 - Clean and transform raw airline data using **Power Query**.
@@ -12,7 +12,7 @@ This project leverages **Power BI** to analyze airline operations data, providin
 - Create interactive dashboards for real-time decision-making.
 - Deploy the solution with **Row-Level Security (RLS)** and scheduled refreshes.
 
----
+
 
 ## 📂 Datasets
 1. **Flight_Information**:  
@@ -22,7 +22,7 @@ This project leverages **Power BI** to analyze airline operations data, providin
 3. **Ticket_Information**:  
    - Columns: `TicketID`, `FlightID`, `BookingStatus`.  
 
----
+
 
 ## 🛠️ Methodology
 ### 1. **Data Preparation & Cleaning**
@@ -59,20 +59,20 @@ This project leverages **Power BI** to analyze airline operations data, providin
 - Configured **Row-Level Security (RLS)** for `Airline A`.
 - Set up **scheduled refresh** daily at 5 PM.  
 
----
+
 
 ## 📊 Key Insights
 - **Airline D** had the highest passenger count (28).
 - **Los Angeles** was the most popular destination (42 passengers).
 - **22% of tickets** were in "Pending" status, indicating potential revenue leakage.  
 
----
+
 
 ## 🔧 Recommendations
 1. Investigate delays for flights marked **"To Be Improved"**.
 2. Optimize ticket confirmation processes to reduce **"Pending"** statuses.  
 
----
+
 
 ## 📦 Project Structure
 ```
@@ -82,7 +82,7 @@ This project leverages **Power BI** to analyze airline operations data, providin
 └── README.md                # Project overview
 ```
 
----
+
 
 ## 🚀 How to Use
 1. **Open the `.pbix` file** in Power BI Desktop.
